@@ -40,4 +40,3 @@ function reduceToAllTrue(src) {
 
 function reduceToAnyTrue(src) {
 }
-}
