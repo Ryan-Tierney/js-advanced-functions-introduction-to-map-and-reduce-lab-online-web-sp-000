@@ -32,6 +32,7 @@ function mapToSquare(src) {
 }
 
 function reduceToTotal(src, start=0) {
+  let total = start 
   
 }
 
