@@ -10,7 +10,7 @@ function mapToNegativize(src) {
 function mapToNoChange(src) { 
   let r = [] 
   for (let i = 0; i < src.length; i++ ) { 
-    r.push(src[1])
+    r.push(src[i])
   }
   return r 
 } 
