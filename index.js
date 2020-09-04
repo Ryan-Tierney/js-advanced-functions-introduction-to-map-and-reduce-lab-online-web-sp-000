@@ -31,7 +31,7 @@ function mapToSquare(src) {
   return r 
 }
 
-function reduceToTotal(src, start) {
+function reduceToTotal(src, start=0) {
   
 }
 
