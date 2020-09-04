@@ -6,3 +6,5 @@ function mapToNegativize(src) {
   }
   return r
 }
+
+function mapToNoChange(src)
