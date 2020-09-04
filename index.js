@@ -30,3 +30,14 @@ function mapToSquare(src) {
   }
   return r 
 }
+
+function reduceToTotal(src, start) {
+  
+}
+
+function reduceToAllTrue(src) { 
+}
+
+function reduceToAnyTrue(src) {
+}
+}
