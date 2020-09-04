@@ -40,7 +40,8 @@ function reduceToTotal(src, start=0) {
 }
 
 function reduceToAllTrue(src) { 
-  
+   for (let i = 0; i < src.length; i++ ) {
+     if !src[i]
 }
 
 function reduceToAnyTrue(src) {
