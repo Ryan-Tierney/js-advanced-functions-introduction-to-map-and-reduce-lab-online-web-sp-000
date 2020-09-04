@@ -33,7 +33,10 @@ function mapToSquare(src) {
 
 function reduceToTotal(src, start=0) {
   let total = start 
-  
+  for (let i = 0; i < src.length; i++ ) {
+    total = total + src[i]
+  }
+  return total 
 }
 
 function reduceToAllTrue(src) { 
