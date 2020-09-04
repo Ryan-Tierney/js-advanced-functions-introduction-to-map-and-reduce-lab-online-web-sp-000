@@ -1,4 +1,8 @@
 // Your code here
-function mapToNegativize(array) { 
-  array.map(x => x * -1) 
+function mapToNegativize(src) {
+  let r = []
+  for (let i = 0; i < src.length; i++ ) {
+    r.push(-1 * src[i])
+  }
+  return r
 }
